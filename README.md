@@ -24,7 +24,7 @@ npm install
 Install Cordova platforms and plugins (defined in the config.xml of this app):
 
 ```
-cordova prepare
+ionic cordova prepare
 ```
 
 Connect a device via USB and run the app.
