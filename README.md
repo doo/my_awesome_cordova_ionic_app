@@ -1,7 +1,7 @@
 # My Awesome Cordova Ionic App
 
 A simple Cordova Ionic demo app based on the tutorial in the blog post 
-["TODO link"](https://scanbot.io/blog/TODO/).
+["Cordova tutorial: How to integrate our scanning functionalities"](https://scanbot.io/blog/cordova-tutorial-how-to-integrate-our-scanning-functionalities).
 
 For a **full** example project which demonstrates **all** API methods of the Scanbot SDK Cordova Plugin
 see the repo [scanbot-sdk-example-ionic](https://github.com/doo/scanbot-sdk-example-ionic).
